@@ -1,0 +1,12 @@
+body {
+    background-color: linear gradient ('#00ff7f',#90ee90);
+}
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 15px;
+    position: relative;
+}
